@@ -167,8 +167,7 @@ I'm passionate about learning Python and continuously improving my programming s
 I believe every project is an opportunity to learn something new and become one step better than yesterday. 💙
 
 ---
-Explanation Video:https://drive.google.com/file/d/1-PTWVQ6kGvBaGCZfg513xsurVo8sKWLa/view?usp=sharing
-
+Explanation Video:https://drive.google.com/file/d/1kKhYCO7aOs8KYo_KZESyCfd9q8bisr95/view?usp=sharing
 ## 🌟 Thank You for Visiting!
 
 Thank you for taking the time to explore my project.
